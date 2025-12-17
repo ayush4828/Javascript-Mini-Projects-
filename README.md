@@ -20,7 +20,7 @@ This repository is created to practice frontend fundamentals and improve hands-o
     <tr>
       <td>🎨 Background Color Change</td>
       <td>
-        <a href="https://YOUR_USERNAME.github.io/javascript-mini-projects/Background%20Color%20Change/" target="_blank">
+        <a href="https://ayush4828.github.io/javascript-mini-projects/Background%20Color%20Change/" target="_blank">
           View Demo
         </a>
       </td>
