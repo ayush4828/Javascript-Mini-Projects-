@@ -39,6 +39,7 @@ https://ayush4828.github.io/Javascript-Mini-Projects-/
 
 ---
 
+
 ## 📁 Folder Structure
 
 javascript-mini-projects/   <br>
